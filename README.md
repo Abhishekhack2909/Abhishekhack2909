@@ -9,7 +9,7 @@
 ## 🏆 Achievements 
 - 🌍 **Google Summer of Code 2025** (GirlScript) – Open Source Contributor
 - 🏅 **Appinventiv Scholarship Recipient** (₹55,000/year) 
-- 💻 Solved **100+ LeetCode problems** & completed a **43-Day Coding Challenge**  
+- 💻 Solved **125+ LeetCode problems** & completed a **43-Day Coding Challenge**  
 - 📜 Certified in:
   - Microsoft Student SOC Program (Cybersecurity)  
   - J.P. Morgan Software Engineering Job Simulation  

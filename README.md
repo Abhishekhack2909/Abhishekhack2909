@@ -62,10 +62,7 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekhack2909)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhack2909&layout=compact&theme=tokyonight)
----
+
 
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-tripathi-a714ab30b/)  

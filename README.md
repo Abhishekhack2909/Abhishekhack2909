@@ -50,20 +50,11 @@
 ---
 
 ## 💼 Experience
-- **Technical Core Member**, UX Club – VIT Bhopal (Sep 2025 – Present)  
-  - UI/UX research, workshops & modern design practices  
-
-- **Technical Core Member**, Data Science Club – VIT Bhopal (Sep 2025 – Present)  
-  - Data science projects & knowledge-sharing initiatives  
-
 - **Open Source Contributor**, Google Summer of Code 2025 (GirlScript)  
   - Global collaboration on web development projects  
   - Code reviews, version control & project management  
 
 ---
-
-
-
 ## 🌍 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-tripathi-a714ab30b/)  
 - 🖥️ [GitHub](https://github.com/Abhishekhack2909)  

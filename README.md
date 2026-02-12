@@ -8,7 +8,7 @@
       <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
    </a>&nbsp;&nbsp;
    <a href="https://x.com/Abhishek706577">
-      <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png">
+      <img height="30" src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png">
    </a>&nbsp;&nbsp;
    <a href="mailto:abhishektripathi317123@gmail.com">
       <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
@@ -37,7 +37,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 - ⚡ Built platforms supporting **340+ contributors**
 - 🌍 Open Source Contributor — **GSSOC 2025**
 - 🧠 150+ LeetCode Problems | Competitive Programming Enthusiast
-- 🎓 B.Tech CSE @ **VIT Bhopal (2024–2028)**
+- 🎓 B.Tech CSE @ **Vellore Institute of Technology (2024–2028)**
 - 🎯 Focused on performance optimization & scalable architecture
 
 <br/>
@@ -97,15 +97,13 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhishekhack2909&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekhack2909&show_icons=true&theme=tokyonight"/>
+
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekhack2909&layout=compact&theme=tokyonight"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=abhishekhack2909&theme=tokyonight&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhack2909&theme=tokyonight&layout=compact&cache_seconds=1800" />
+<img src="https://streak-stats.demolab.com?user=abhishekhack2909&theme=tokyonight"/>
 
 </p>
 

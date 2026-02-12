@@ -1,81 +1,142 @@
-# Hi there 👋, I'm Abhishek Tripathi
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/Abhishekhack2909">Abhishek Tripathi</a> 
+   <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30px"></h1>
+</div>
 
-🚀 **Passionate Web Developer | DSA Enthusiast | Open Source Contributor**  
-🎓 Computer Science Engineering Student at **VIT University** (Expected 2028)  
-💡 Building user-focused, responsive solutions with **Full-Stack Development**  
-
----
-
-## 🏆 Achievements 
-- 🌍 **Google Summer of Code 2025** (GirlScript) – Open Source Contributor
-- 🏅 **Appinventiv Scholarship Recipient** (₹55,000/year) 
-- 💻 Solved **125+ LeetCode problems** & completed a **43-Day Coding Challenge**  
-- 📜 Certified in:
-  - Microsoft Student SOC Program (Cybersecurity)  
-  - J.P. Morgan Software Engineering Job Simulation  
-  - NPTEL Cloud Computing (IIT Kharagpur)  
-  - HackerRank Problem Solving (Intermediate)  
-  - HackerRank Python (Basics)  
+<p align='center'>
+   <a href="https://www.linkedin.com/in/abhishek-tripathi-a714ab30b/">
+      <img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
+   </a>&nbsp;&nbsp;
+   <a href="https://x.com/Abhishek706577">
+      <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968830.png">
+   </a>&nbsp;&nbsp;
+   <a href="mailto:abhishektripathi317123@gmail.com">
+      <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+   </a>
+</p>
 
 ---
 
-## 🔧 Tech Stack
-**Languages:** JavaScript | C++ | Python  
-**Frontend:** HTML5 | CSS3 | React.js | Bootstrap  
-**Backend:** Node.js | Express.js  
-**Databases:** MongoDB | MySQL  
-**Tools:** Git | GitHub | Vercel | Postman | VS Code  
-**Specialties:** Responsive Web Design | REST APIs | UI/UX Principles | Automation 
----
+<div align="center">
+<h3> 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🇮🇳 India</h3>
+</div>
 
-## 📂 Featured Projects
-### 🌐 [Personal Portfolio Website](https://my-portfolio-abhishek.vercel.app/)
-> *HTML5 | CSS3 | JavaScript | Leetcode API*  
-- Responsive portfolio showcasing skills & projects  
-- Live **LeetCode API** integration for coding stats  
-- Smooth animations, dark/light mode & continuous deployment via Vercel  
+<h5 align="center">
+   <i>⚡ "Building scalable tech & learning something new every day." ⚡</i>
+</h5>
 
-### 📱 [Teach Your Parents Smartphone](https://smartphone-teacher.vercel.app/)
-> *HTML5 | CSS3 | JavaScript*  
-- Web app with tutorials for elderly users on smartphone basics  
-- Accessibility-first design with large text, high contrast & voice-reader support  
-- Interactive guides for apps like WhatsApp & YouTube
+<br/>
 
-### 📱 [TrueFeed](FireFox Extension)
-> *HTML5 | CSS3 | JavaScript|groq Api*  
-- Browser extension that filters LinkedIn content based on user preferences 
-- Customizable feed to hide irrelevant or “cringe” posts
-- Smart filtering powered by external growth API for personalized recommendations
-- Minimal UI with seamless integration into LinkedIn feed
----
+<img align="right" height="270px" width="420px" alt="GIF" 
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" />
 
-## 💼 Experience
-- **Open Source Contributor**, Google Summer of Code 2025 (GirlScript)  
-  - Global collaboration on web development projects  
-  - Code reviews, version control & project management  
+### 👨‍💻 About Me
+
+- 🔥 Full-Stack Developer specializing in **MERN Stack & Real-Time Applications**
+- 🤖 Passionate about **AI/ML Integration & LLM-based Applications**
+- ⚡ Built platforms supporting **340+ contributors**
+- 🌍 Open Source Contributor — **GSSOC 2025**
+- 🧠 150+ LeetCode Problems | Competitive Programming Enthusiast
+- 🎓 B.Tech CSE @ **VIT Bhopal (2024–2028)**
+- 🎯 Focused on performance optimization & scalable architecture
+
+<br/>
+
+<p align="center">
+  <h4> Full Stack | Machine Learning | Competitive Programming </h4>
+</p>
 
 ---
-## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-tripathi-a714ab30b/)  
-- 🖥️ [GitHub](https://github.com/Abhishekhack2909)  
-- 🧑‍💻 [LeetCode](https://leetcode.com/u/binarybard29/)  
-- 📩 abhishektripathi317123@gmail.com  
+
+# ⚡ Technologies
+
+## 💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
 
 ---
-✨ *“Building technology to make life easier, one project at a time.”*  
+
+## 🚀 Libraries & Frameworks
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js)
+
+---
+
+## 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+---
+
+## ☁ Deployment & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekhack2909&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=abhishekhack2909&theme=tokyonight&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekhack2909&theme=tokyonight&layout=compact&cache_seconds=1800" />
+
+</p>
 
 
-<!--
-**Abhishekhack2909/abhishekhack2909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzFvZDNyODAzNTgxcGl6NnJ5NTRlZDJwNnl6NTgxYzVjcmlxbnhvcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="500"/>
+</p>
+
+- ⚙ Build scalable full-stack platforms  
+- 🤖 Integrate AI/ML into web applications  
+- 🧠 Practice DSA & Competitive Programming  
+- 🌍 Contribute to Open Source  
+
+---
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">
+🔥 Issues, Contributions & Feature Requests are always welcome!  
+💙 If you like my projects, consider giving them a ⭐  
+</p>
+
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️ <i>Keep Building. Keep Growing.</i> ⚡️</h1>
+
+<p align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=120&section=footer"/>
+</p>
+

@@ -97,7 +97,6 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekhack2909&show_icons=true&theme=tokyonight"/>
 
 <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekhack2909&layout=compact&theme=tokyonight"/>
 

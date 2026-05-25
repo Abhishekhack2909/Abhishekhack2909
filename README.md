@@ -43,7 +43,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 <br/>
 
 <p align="center">
-  <h4> Full Stack | Machine Learning | Competitive Programming </h4>
+  <h4> AI powered Full Stack Products | Machine Learning | Competitive Programming </h4>
 </p>
 
 ---

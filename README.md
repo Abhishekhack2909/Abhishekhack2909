@@ -18,7 +18,7 @@
 ---
 
 <div align="center">
-<h3> 💻 Full Stack Developer | 🤖 AI/ML Enthusiast | 🇮🇳 India</h3>
+<h3> 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🇮🇳 India</h3>
 </div>
 
 <h5 align="center">

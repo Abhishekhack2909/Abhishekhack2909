@@ -32,7 +32,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 
 ### 👨‍💻 About Me
 
-- 🔥 Full-Stack Developer specializing in **MERN Stack & Real-Time Applications**
+- 🔥 Full-Stack Developer
 - 🤖 Passionate about **AI/ML Integration & LLM-based Applications**
 - ⚡ Built platforms supporting **700+ contributors**
 - 🧠 200+ LeetCode Problems | Competitive Programming Enthusiast

@@ -117,7 +117,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBid
 - ⚙ Build scalable full-stack platforms  
 - 🤖 Integrate AI/ML into web Applications  
 - 🧠 Practice DSA & Competitive Programming  
-- 🌍 Contribute to Open Source  
+- 🌍 Contribute to Open-Source  
 
 ---
 

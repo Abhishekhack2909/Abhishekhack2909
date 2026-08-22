@@ -22,7 +22,7 @@
 </div>
 
 <h5 align="center">
-   <i>⚡ "Building Scalable tech & learning something new everyday." ⚡</i>
+   <i>⚡ "Building scalable tech & learning something new everyday." ⚡</i>
 </h5>
 
 <br/>

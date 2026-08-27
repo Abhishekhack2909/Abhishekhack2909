@@ -33,7 +33,7 @@ $ which languages
 /usr/bin/c++
 
 $ uptime
-awake, mostly. shipping since 2024.
+awake,mostly. shipping since 2024.
 
 $ echo $PHILOSOPHY
 an answer without a source is a rumour

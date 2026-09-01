@@ -66,7 +66,7 @@ flowchart LR
     RR --> GEN["generate"]
     GEN --> CHK{"grounded?"}
 
-    CHK -->|"no — go dig again"| RET
+    CHK -->|"no — go dig-again"| RET
     CHK -->|"yes"| OUT(["✅ answer + citations"])
 
     classDef q fill:#36BCF7,stroke:#0F2027,color:#0F2027,font-weight:bold

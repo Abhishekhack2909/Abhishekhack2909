@@ -87,7 +87,7 @@ answer will happily invent one instead.
 
 ---
 
-## and this is what it looks like from the inside
+## and This is what it looks like from the inside
 
 ```
 trace  a9f2c1   "why was my invoice charged twice?"            1,284 ms

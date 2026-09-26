@@ -16,7 +16,19 @@
 
 ---
 
-<img align="right" width="320" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="pixel art animation" />
+<table align="right">
+  <tr>
+    <td align="center">
+      <img width="320" height="190" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0aHB2ajRhd3RhcGw5bDBidWc3aWRwdWlrYnZmZnV5d20zcHcyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="pixel art animation" />
+      <br/>
+      <img width="320" height="190" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="typing cat animation" />
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ```console
 $ whoami
@@ -232,26 +244,20 @@ If you can't produce this for an LLM feature, you don't have a feature. You have
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekhack2909&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&hide_title=true&card_width=450" alt="Abhishek's GitHub statistics: commits, pull requests, issues and stars" />
 
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekhack2909&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekhack2909&theme=tokyonight" alt="Languages ranked by commit count" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhishekhack2909&theme=tokyonight" alt="Languages used across repositories" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abhishekhack2909&theme=tokyonight" alt="Languages ranked by commit count" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abhishekhack2909&hide_border=true&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="Contribution streak: current and longest" />
+<img src="https://streak-stats.demolab.com?user=Abhishekhack2909&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekhack2909&theme=tokyo-night&hide_border=true&area=true&custom_title=where%20the%20commits%20go" alt="Daily contribution activity over the last month" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishekhack2909&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub achievement trophies" />
 
 </div>
+
 
 ---
 

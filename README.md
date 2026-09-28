@@ -31,7 +31,7 @@
 
 
 ```console
-$ whoami
+$ whoamI
 Abhishek Tripathi — Kanpur, India. raccoon-adjacent.
 
 $ cat ~/.obsessions
